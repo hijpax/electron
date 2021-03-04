@@ -1,0 +1,1964 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"bg",
+				"bg-info \tBootstrap 4 Class"
+			],
+			[
+				"lo",
+				"load\t.load()"
+			],
+			[
+				"m",
+				"m-5 \tBootstrap 4 Class"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"percen",
+				"percentVal"
+			],
+			[
+				"w",
+				"w-100 \tBootstrap 4 Class"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"cod",
+				"cod_socio"
+			],
+			[
+				"dia",
+				"dia"
+			],
+			[
+				"of",
+				"offset-4 \tBootstrap 4 Class"
+			],
+			[
+				"form-check-in",
+				"form-check-input \tBootstrap 4 Class"
+			],
+			[
+				"formche",
+				"form-check-label \tBootstrap 4 Class"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"text",
+				"text-dark \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"col-8 \tBootstrap 4 Class"
+			],
+			[
+				"text-da",
+				"text-dark \tBootstrap 4 Class"
+			],
+			[
+				"hea",
+				"dropdown-header \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-info \tBootstrap 4 Class"
+			],
+			[
+				"prop",
+				"prop\t.prop() - single"
+			],
+			[
+				"pr",
+				"prop\t.prop() - single"
+			],
+			[
+				"pro",
+				"prop\t.prop() - single"
+			],
+			[
+				"time",
+				"timepicker"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"col-",
+				"col-6 \tBootstrap 4 Class"
+			],
+			[
+				"row",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"formc",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"juti",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"label",
+				"form-check-label \tBootstrap 4 Class"
+			],
+			[
+				"form-che",
+				"form-check-input \tBootstrap 4 Class"
+			],
+			[
+				"h",
+				"h-75 \tBootstrap 4 Class"
+			],
+			[
+				"py",
+				"py-3 \tBootstrap 4 Class"
+			],
+			[
+				"bord",
+				"border \tBootstrap 4 Class"
+			],
+			[
+				"tab",
+				"tab-pane \tBootstrap 4 Class"
+			],
+			[
+				"_",
+				"_unidad-home.blade.php"
+			],
+			[
+				"exi",
+				"existeSocioMora"
+			],
+			[
+				"mt",
+				"mt-2 \tBootstrap 4 Class"
+			],
+			[
+				"mb",
+				"mb-2 \tBootstrap 4 Class"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"textw",
+				"text-white \tBootstrap 4 Class"
+			],
+			[
+				"bgd",
+				"bg-dark \tBootstrap 4 Class"
+			],
+			[
+				"card",
+				"card-body \tBootstrap 4 Class"
+			],
+			[
+				"mr",
+				"mr-4 \tBootstrap 4 Class"
+			],
+			[
+				"carg",
+				"cargar_select2"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"p-",
+				"p-5 \tBootstrap 4 Class"
+			],
+			[
+				"px-",
+				"p-xl-4 \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"alert-success \tBootstrap 4 Class"
+			],
+			[
+				"p",
+				"p-2 \tBootstrap 4 Class"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"border",
+				"border-danger \tBootstrap 4 Class"
+			],
+			[
+				"my",
+				"my-3 \tBootstrap 4 Class"
+			],
+			[
+				"mx-",
+				"mx-2 \tBootstrap 4 Class"
+			],
+			[
+				"ale",
+				"alert-warning \tBootstrap 4 Class"
+			],
+			[
+				"flex-r",
+				"flex-row-reverse \tBootstrap 4 Class"
+			],
+			[
+				"d",
+				"d-inline \tBootstrap 4 Class"
+			],
+			[
+				"just",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"flexr",
+				"flex-row-reverse \tBootstrap 4 Class"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"btn-s",
+				"btn-sm \tBootstrap 4 Class"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"bor",
+				"border-dark \tBootstrap 4 Class"
+			],
+			[
+				"d-f",
+				"d-inline-flex \tBootstrap 4 Class"
+			],
+			[
+				"d-ro",
+				"flex-md-row-reverse \tBootstrap 4 Class"
+			],
+			[
+				"px",
+				"px-2 \tBootstrap 4 Class"
+			],
+			[
+				"now",
+				"text-nowrap \tBootstrap 4 Class"
+			],
+			[
+				"tex-l",
+				"text-lg-center \tBootstrap 4 Class"
+			],
+			[
+				"te",
+				"text-overflow\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"pre",
+				"pre-line\twhite-space"
+			],
+			[
+				"spac",
+				"white-space\tproperty"
+			],
+			[
+				"pres",
+				"presion_arterial"
+			],
+			[
+				"fre",
+				"frecuancia_respiratoria"
+			],
+			[
+				"id_pci",
+				"id_paciente"
+			],
+			[
+				"id",
+				"id_paciente_id"
+			],
+			[
+				"peso",
+				"peso"
+			],
+			[
+				"sin",
+				"indexSignosVitales"
+			],
+			[
+				"si",
+				"signos"
+			],
+			[
+				"n",
+				"num_consultas"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"ne",
+				"new_medicamento"
+			],
+			[
+				"new",
+				"new_medicamento"
+			],
+			[
+				"get",
+				"getlist"
+			],
+			[
+				"min",
+				"min\tAttr"
+			],
+			[
+				"ma",
+				"max\tAttr"
+			],
+			[
+				"Me",
+				"Medicamento"
+			],
+			[
+				"inte",
+				"IntegerField"
+			],
+			[
+				"for",
+				"ForeignKey"
+			],
+			[
+				"id_c",
+				"id_consulta"
+			],
+			[
+				"or",
+				"order_by"
+			],
+			[
+				"emp",
+				"emp"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"jq",
+				"jquery-ui"
+			],
+			[
+				"j",
+				"jquery-ui"
+			],
+			[
+				"hor",
+				"hora_fin"
+			],
+			[
+				"turno",
+				"turno_eliminar"
+			],
+			[
+				"fecha",
+				"fecha_inicio"
+			],
+			[
+				"pk",
+				"pk_clinica"
+			],
+			[
+				"call",
+				"call_command"
+			],
+			[
+				"db",
+				"db_column"
+			],
+			[
+				"colum",
+				"db_column"
+			],
+			[
+				"max",
+				"max_digits"
+			],
+			[
+				"C",
+				"Clinica"
+			],
+			[
+				"Ante",
+				"AntecedentesFamiliares"
+			],
+			[
+				"dep",
+				"deptos"
+			],
+			[
+				"de",
+				"deptos"
+			],
+			[
+				"A",
+				"AntecedentesMedicos"
+			],
+			[
+				"An",
+				"AntecedentesQuirurgico"
+			],
+			[
+				"AN",
+				"AntecedentesFamiliares"
+			],
+			[
+				"index",
+				"indexTurno"
+			],
+			[
+				"hora_",
+				"hora_fin"
+			],
+			[
+				"h_",
+				"h_inicio"
+			],
+			[
+				"hora",
+				"hora_inicio"
+			],
+			[
+				"f_",
+				"f_fin"
+			],
+			[
+				"postgres",
+				"postgres"
+			],
+			[
+				"Antecedente",
+				"AntecedentesFamiliares"
+			],
+			[
+				"turnos",
+				"turnosregistrados"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"antece",
+				"antecedente_personal"
+			],
+			[
+				"nombre",
+				"nombre_turno"
+			],
+			[
+				"RE",
+				"HTTP_REFERER"
+			],
+			[
+				"HT",
+				"HttpResponseRedirect"
+			],
+			[
+				"MEd",
+				"MedicacionActual"
+			],
+			[
+				"Medica",
+				"MedicacionActual"
+			],
+			[
+				"H",
+				"HTTP_REFERER"
+			],
+			[
+				"Met",
+				"META"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/src/ui/index.html",
+			"settings":
+			{
+				"buffer_size": 990,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/src/main.js",
+			"settings":
+			{
+				"buffer_size": 714,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/src/preload.js",
+			"settings":
+			{
+				"buffer_size": 513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/src/ui/product.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hijpax/Documentos/Docker/solo-contenedores/aspaetrans/docker-compose.yml",
+			"settings":
+			{
+				"buffer_size": 1463,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/src/index.js",
+			"settings":
+			{
+				"buffer_size": 211,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/src/database.js",
+			"settings":
+			{
+				"buffer_size": 268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"preferences: t",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hijpax/Documentos/Docker/electron",
+		"/home/hijpax/Documentos/Docker/electron/source"
+	],
+	"file_history":
+	[
+		"/home/hijpax/Documentos/Docker/electron/source/package.json",
+		"/home/hijpax/Documentos/Docker/solo-contenedores/aspaetrans/docker-compose.yml",
+		"/home/hijpax/Documentos/Docker/electron/Dockerfile",
+		"/home/hijpax/Documentos/Docker/electron/source/src/database.js",
+		"/home/hijpax/Documentos/Docker/electron/docker-compose.yml",
+		"/home/hijpax/Documentos/Docker/electron/source/src/ui/index.html",
+		"/home/hijpax/Documentos/Docker/electron/source/package-lock.json",
+		"/home/hijpax/Documentos/Docker/electron/node/Dockerfile",
+		"/home/hijpax/Documentos/Docker/practica-cursoFrondend/docker-compose.yml",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/candidato/validar.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Ingresos/donacion/donacion-listar.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Ingresos/donacion/modales/modal-registro-ingreso-donacion.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Ingresos/donacion/modales/modal-editar-ingreso-donacion.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Ingresos/donacion/modales/modal-detalle-ingreso-donacion.blade.php",
+		"/home/hijpax/Descargas/roy.html",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/candidato/sections/modal-sending.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/uploads.ini",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/docker-compose.yml",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/candidato/sections/scriptfooter.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/Dockerfile",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/.circleci/config.yml",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/.env",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/docker-compose.override.yml",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/nginx.conf",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/socio/candidato/RegistroNuevoSocioController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/database/seeds/RegistroPersonalSeeder.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/database/seeds/UserRolTablesSeeder.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/candidato/form.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/candidato/index.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/candidato/sections/modal-send.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/.env.example",
+		"/home/hijpax/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/.gitignore",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/deploy.sh",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/docker",
+		"/home/hijpax/Documentos/Docker/laravel/laradock/docker-compose.yml",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/.env.docker",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/composer.json",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/routes/web.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Ingresos/cuenta_cobrar/listar-cuenta-cobrar.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/ingresos/submodulo-asignar-ingreso.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/ingresos/submodulo-ingreso.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/evento/submodulo-registro-ingresos-evento.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Eventos/liquidacion/modales/modal-liquidar-evento.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/evento/submodulo-liquidacion.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/evento/submodulo-evento.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/evento/submodulo-evento-detalles.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Eventos/modales/modal-actualizar-asistencia.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Eventos/modales/modal-registrar-asistencia.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/egresos/submodulo-registro-egreso.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/configuracion/submodulo-usuarios.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Configuracion/modales/modal-registro-firmas.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/configuracion/submodulo-firmas.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/configuracion/submodulo-roles.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/configuracion/submodulo-config-admin.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/configuracion/submodulo-cambio-cuota.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Configuracion/modales/modal-registro-usuarios.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/UsuariosController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/Evento/EventoController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Eventos/show.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Configuracion/modales/modal-registro-roles.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Modelos/Ingresos/Mensualidad.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/MensualidadController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Ingresos/modales/modal-registro-ingreso.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/modales/modal-enviarcv.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Ingresos/mensualidad/modales/modal-detalle-mensualidad.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Ingresos/mensualidad/mensualidad-listar.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Membresia/expedientes/show.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/socio/cvcertificado/general.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/htmlPDF.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/cv_certif_socio.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/CvCertificadoController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/cv_certificado.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/js/socio/cvcertificado/experiencia.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/modales/modal-editar-exp-laboral.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/modales/modal-registro-exp-laboral.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/static/js/jsPDF-1.3.2/examples/js/basic.js",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/database/migrations/2020_11_26_214937_update_table_experiencialabs.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/database/migrations/2020_11_26_174141_add_terminado_to_experiencialabs_table.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/database/migrations/2020_11_26_173847_add_terminado_to_experiencialabs_table.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Membresia/detallesSolicitud.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/database/seeds/DatabaseSeeder.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/Membresia/SolicitudesController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/database/seeds/RoleUserTableSeeder.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/AsignarIngresoController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/vendor/swiftmailer/swiftmailer/lib/classes/Swift/SwiftException.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/vendor/swiftmailer/swiftmailer/lib/classes/Swift/IoException.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/vendor/swiftmailer/swiftmailer/lib/classes/Swift/TransportException.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/candidato/sections/section2.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/modales/modal-editar-info-academica.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/modales/modal-registro-info-academica.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/AdministrarCvController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/config/mail.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/modales/modal-editar-referencias.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/resources/views/Socio/cv_certificado/modales/modal-registro-referencias.blade.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/DetallePagosController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/database/migrations/2020_10_22_235123_create_socios_mora_view.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Traits/MensualidadTrait.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/Membresia/MensualidadesEnMoraController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/EgresoController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/IngresoController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/IngresosEventosController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/PagosCertificadosController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/ReciboDonacionController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/Evento/AsistenciaController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/Evento/LiquidacionController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/Membresia/ExpedientesController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/Otros_ingresos/OtrosIngresosController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/socio/EstadoPagosImprimibleController.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Modelos/Socio/SocioMora.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/public/index.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/vendor/barryvdh/laravel-dompdf/src/ServiceProvider.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Console/Kernel.php",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/app/Http/Controllers/HomeController.php",
+		"/home/hijpax/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/hijpax/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/hijpax/Documentos/Docker/laravel/sigma/sigma.sublime-project",
+		"/home/hijpax/2020-2/Auditoría de Sistemas/Proyecto/Integrantes.txt",
+		"/home/hijpax/2020-2/Consultoría Profesional/Proyecto/Etapa 2/lista-contenido.txt",
+		"/home/hijpax/Documentos/Docker/laravel/scva/.env",
+		"/home/hijpax/Documentos/Docker/laravel/laradock/nginx/sites/scva.conf",
+		"/home/hijpax/Documentos/Docker/laravel/laradock/nginx/sites/sigma.conf",
+		"/home/hijpax/Documentos/Docker/laravel/laradock/nginx/sites/guru.conf",
+		"/home/hijpax/Documentos/Docker/laravel/citas/.env",
+		"/home/hijpax/Documentos/Docker/laravel/laradock/.env",
+		"/home/hijpax/Documentos/Docker/laravel/laradock/nginx/sites/citas.conf",
+		"/home/hijpax/Documentos/Docker/laravel/laradock/nginx/sites/aspae.conf",
+		"/home/hijpax/Documentos/Docker/citas/resources/views/actualizar.blade.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+			"*.blade.php",
+			"",
+			"*.blade.php",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			"*.blade.php",
+			"*.blade.phoo",
+			"*.js",
+			"*.blade.php",
+			"*.js",
+			"*.blade.php",
+			"*.js",
+			"*.php",
+			"*Controller.php",
+			"*.php",
+			"-*.php",
+			"",
+			"[*.php]",
+			"\n*.php",
+			"[*.php]\n*.php",
+			"\n*.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"node",
+			"node/",
+			"build",
+			"Detalle de ingreso por donación",
+			"Editar ingresos por donación",
+			"Registro de ingresos por donación",
+			"jque",
+			"ajax",
+			"<!--Script para toastr-->",
+			"ajax",
+			"toast",
+			"toa",
+			"ajax",
+			"/ajax/",
+			"verificarDatos",
+			"regiration_form",
+			"verificarDatos",
+			"verific",
+			"verifica",
+			"prevent",
+			"submit",
+			"enviando",
+			"espere",
+			"enviando",
+			"30",
+			"registro",
+			"{",
+			" claudia.gu",
+			"length",
+			"-",
+			"registro",
+			"success: function(){",
+			"no se ha añadido invitación",
+			"Se ha realizado con exito el registro de",
+			"tipo_ingreso_registro",
+			"Se ha realizado con exito el registro de",
+			"color=",
+			"\"red",
+			"red\"",
+			"red",
+			"Se ha enviado su CV",
+			"exp",
+			"expe",
+			"showcvsocio",
+			"se ha enviado",
+			"data",
+			"_fin",
+			"che",
+			"terminado_registro",
+			"checked",
+			"add",
+			"storee",
+			"rulesAcademica",
+			"Validator",
+			"es obliga",
+			"terminado",
+			"Exper",
+			"Expep",
+			"Expe",
+			"rulesExperiencia",
+			"registr",
+			"edit",
+			"stor",
+			"str",
+			"upda",
+			"rulesExperiencia",
+			"stor",
+			"segurid",
+			"Requisito",
+			"requisit",
+			"requi",
+			"crear",
+			"vendor",
+			"deneg",
+			"crear_usuario",
+			"Auth::",
+			"Auth",
+			"try",
+			"fotocopia_titulo",
+			"Auth:",
+			"Auth",
+			"getUsuariosAdmin",
+			"notifi",
+			"crear_usuario",
+			"otros",
+			"tel",
+			"Fax",
+			"pregrado",
+			"membresias",
+			"index",
+			"email",
+			"str",
+			"stream",
+			"socio normal",
+			"otros",
+			"nombre_estudio_registro",
+			"endforeach",
+			"cargo",
+			"referencia",
+			"cvcertificado",
+			"showcv",
+			"obtener_fecha_de_pago_inscripcion",
+			"datos_inscripcion",
+			"obtener_fecha_de_pago_inscripcion",
+			"datos_inscripcion",
+			"getSociosEnMora",
+			"getMensualidadesSocio",
+			"getUltimaFechaPago",
+			"getCantMesesAtrasados",
+			"getMensualidadesSocio",
+			"getUltimaFechaPago",
+			"getDetallesUltimoAnio",
+			"getMensualidadesSocio",
+			"getUltimaFechaPago",
+			"PDF::",
+			"pdf",
+			"PDF",
+			"PDF::",
+			"pdf",
+			"socios_en_mora",
+			"mensualidad",
+			"getSociosEnMora",
+			"inicioAd",
+			"-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_inicio",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/src/ui/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										384,
+										385
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										372,
+										373
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 223.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										372,
+										373
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										199,
+										200
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/src/preload.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										504,
+										505
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										493,
+										494
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/src/ui/product.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/hijpax/Documentos/Docker/solo-contenedores/aspaetrans/docker-compose.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/YAML (Docker).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "source/src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "source/src/database.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										101,
+										102
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										91,
+										92
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 207.0
+	},
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 168.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "electron.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"aspaetemporal/app/Http/Controllers/bitacora/bitacoraController.php"
+			],
+			[
+				"fecha",
+				"aspaetemporal/vendor/laravel/framework/src/Illuminate/Broadcasting/PrivateChannel.php"
+			],
+			[
+				"bitacoraC",
+				"aspaetemporal/app/Http/Controllers/bitacora/bitacoraController.php"
+			],
+			[
+				"lbitacora",
+				"aspaetemporal/app/Http/Controllers/BitacorasController.php"
+			],
+			[
+				"bitacora",
+				"aspaetemporal/database/migrations/2019_08_05_231434_bitacora_sistema.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 236.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"#bypassme"
+			]
+		],
+		"width": 1084.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"21":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"24":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"45":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

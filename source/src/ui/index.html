@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Electron</title>
+	<link rel="stylesheet" type="text/css" href="./bootstrap.css">
+</head>
+<body>
+	<main class="container-fluid">
+		<div class="row">
+			<div class="col-md-6 my-auto">
+				<form class="card card-body" action="" id="productForm">
+
+					<div class="form-group">
+						<input type="text" class="form-control" id="name" placeholder="Product name" autofocus>
+					</div>
+
+					<div class="form-group">
+						<input type="number" class="form-control" id="price" placeholder="Product's price"
+						step="any">
+					</div>
+
+					<div class="form-group">
+						<textarea name="" class="form-control" id="description" rows="3" placeholder="Product's Description"></textarea>
+					</div>
+
+					<button class="btn btn-primary"> Save Product</button>
+				</form>
+			</div>
+		</div>
+	</main>
+	<script src="./product.js"></script>
+</body>
+</html>

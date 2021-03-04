@@ -1,0 +1,39 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Vision Colors Application",
+  "homepage": "https://github.com/hijpax/cultivosGis",
+  "author": "Irene Delgado <example@imail.example>",
+  "license": "ISC",
+  "repository ": "https://github.com/hijpax/cultivosGis",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "package": "electron-packager"
+  },
+  "build": {
+    "appId": "com.vision.color",
+    "asar": true,
+    "linux": {
+      "category": "utils",
+      "target": "deb"
+    },
+    "win": {
+      "target": "NSIS",
+      "publisherName": "VisionColorAdministrativeTool"
+    }
+  },
+  "keywords": [],
+  "dependencies": {
+    "npm": "^7.6.0",
+    "promise-mysql": "^5.0.3"
+  },
+  "devDependencies": {
+    "electron": "^12.0.0",
+    "electron-builder": "^22.10.5",
+    "electron-packager": "^15.2.0",
+    "electron-reload": "^1.5.0"
+  }
+}

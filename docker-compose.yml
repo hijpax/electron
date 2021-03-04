@@ -1,0 +1,50 @@
+version: '3' # specify docker-compose version
+
+# Define the services/containers to be run
+services:
+  #angular: # name of the first service
+  #  build: angular-client # specify the directory of the Dockerfile
+  #  ports:
+  #    - "4200:4200" # specify port forewarding
+
+  node:
+    build: .
+    container_name: electron-node
+    volumes:
+      - ./source:/code/
+    ports:
+      - 8000:3900
+    depends_on:
+      - db
+    working_dir: /code/
+
+  db:
+    image: mariadb:10.4.11
+    container_name: electron-mariadb #sera el nombre del host a colocar en .env (DB_HOST)
+    environment:
+      - MYSQL_ROOT_PASSWORD=electron123
+      - MYSQL_DATABASE=electron
+      - MYSQL_USER=electronuser
+      - MYSQL_PASSWORD=electron123
+    ports:
+      - "8080:3306"
+
+  adminer:
+    image: adminer:4.7.6
+    container_name: electron-adminer
+    ports:
+      - 8183:8080
+    depends_on:
+      - db
+  # vue:
+  #   build: node
+  #   container_name: practica-vue
+  #   volumes:
+  #     - ./source:/code/
+  #   ports:
+  #     - 8181:8080
+  #   depends_on:
+  #     - db
+  #     - node
+  #   working_dir: /code/practica_vue
+  #   entrypoint: ['npm','run','serve']
