@@ -5,3 +5,4 @@
 - __Electron:__
 - __Electron builder:__
 - __Promise Mysql:__
+- __Docker__
